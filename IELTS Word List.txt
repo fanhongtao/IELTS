@@ -2537,6 +2537,81 @@ flint*    /flɪnt/      n. 火石，打火石
 commodity* /kəˈmɔdətɪ/ n. 商品，货物；日用品
 
 Word List 34
+mixture   /ˈmɪkstʃə(r)/ n. 混合（物）
+tendency* ['tendənsɪ]  n. 倾向，趋向
+lane*     /leɪn/       n. 小巷；行车道
+assess*   /əˈses/      vt. 评定；估价
+inductive* /ɪnˈdʌktɪv/ a. 诱导的，归纳的
+session   /ˈseʃn/      n. 一场，一节；会议；集会
+constrain /kənˈstreɪn/ vt. 迫使；约束
+negative* /ˈnegətɪv/   a. 否定的，反面的；消极的；负的，阴性的  n. 负数；（照相的）底片
+unwrap    [ʌnˈræp]     vt. 打开，解开；除去包装
+punctual  /ˈpʌŋktʃuəl/ a. 守时的；准时的
+intake    /ˈɪnteɪk/    n. 吸入，纳入；进气口，入口
+penetration /ˏpenɪˈtreɪʃn/ n. 进入，穿过；洞察力，领悟力
+municipal /mjuːˈnɪsɪpl/ a. 市的，市政的；地区的；内政的
+deficit   /ˈdefɪsɪt/   n. 不足额，赤字
+triumphant [traɪˈʌmfənt] a. 得胜的；得意洋洋的；狂欢的
+plagiarise /ˈpleɪdʒəraɪz/ v. 剽窃，抄袭
+reptile   /ˈreptaɪl/   n. 爬行动物，爬虫类；卑鄙的人
+circumscribe /ˈsɜːkəmskraɪb/ vt. 在……周围画线；限制
+patronage /ˈpætrənɪdʒ/ n. 赞助；支持；光顾；任免权
+analogy   /əˈnælədʒɪ/  n. 类推；类比
+precedent /ˈpresɪdənt/ n. 先例，范例；惯例
+obscurity [əb'skjʊərətɪ] n. 模糊；费解；不出名
+ascertain /ˏæsəˈteɪn/  vt. 弄清，查明；确定
+esteem    /ɪˈstiːm/    n./vt. 尊重；尊敬
+legitimacy [lɪ'dʒɪtɪməsɪ] n. 合法性；正统性
+discrepancy /dɪˈskrepənsɪ/ n. 不同；矛盾
+benevolent /bɪˈnevələnt/ a. 善心的，仁心的
+malevolent /məˈlevələnt/ a. 有恶意的；恶毒的
+downsize* ['daʊnsaɪz]  v. 缩小，紧缩
+lunar     /ˈluːnə(r)/  a. 月的；月亮的
+complicated ['kɒmplɪkeɪtɪd] a. 复杂的；难懂的
+handle    /ˈhændl/     v. 处理；操作，操纵；触，抚摸  n. 手柄，把手
+innovation [ˌɪnəˈveɪʃn] n. 革新，创新
+glitter   /ˈglɪtə(r)/  n./vi. 闪光
+feedback* /ˈfiːdbæk/   n. 反馈；反馈信息
+subsequent* /ˈsʌbsɪkwənt/ a. 继……之后的，随后的
+shark     /ʃɑːk/       n. 鲨鱼；诈骗者
+council*  /ˈkaunsl/    n. 理事会，委员会
+venomous  [ˈvenəməs]   a. 有毒的；分泌毒液的；恶意的，狠毒的
+intellectual /ˏɪntɪˈlektʃuəl/ n. 知识分子  a. 智力的；理智的
+strain    /streɪn/     v./n. 拉紧，绷紧；扭伤，拉伤；（使）过劳，（使）极度紧张
+champion* /ˈtʃæmpɪən/  n. 冠军
+leukaemia* /luːˈkiːmɪə/ n. 白血病
+terminology* /ˏtɜːmɪˈnɔlədʒɪ/ n. （某学科的）专门用语；术语
+centennial /senˈtenɪəl/ n. 百年纪念  a. 一百年的
+Mediterranean* /ˏmedɪtəˈreɪnɪən/ a. 地中海（式）的  n. 地中海
+outdo*    /ˏautˈduː/   vt. 超越，胜过
+discipline* /ˈdɪsɪplɪn/ vt. 训练，训导  n. 学科；纪律；处分
+consequent /ˈkɔnsɪkwənt/ a. 作为结果的；随之发生的
+fulfil*   /fulˈfɪl/    vt. 实现，完成；满足
+element*  /ˈelɪmənt/   n. 要素；元素； [the -s] 基本原理
+segment*  /ˈsegmənt/   n. 片段；部分；节；线段；（橘子等的）瓣
+orchestra /ˈɔːkɪstrə/  n. 管弦乐队
+muscle    /ˈmʌsl/      n. 肌肉；体力；力量，实力
+function  /ˈfʌŋkʃn/    vi. 运行，起作用  n. 功能；职责，作用；函数
+metaphor* /ˈmetəfə(r)/ n. 隐喻，暗喻
+delegate  /ˈdelɪgət/   n. 代表，代表团成员  /ˈdelɪgeɪt/ vt. 委派……为代表；授（权）给……，把……委托给……
+fragile   /ˈfrædʒaɪl/  a. 脆弱的；虚弱的；易碎的；易受伤害的
+radiate   /ˈreɪdɪeɪt/  v. 发光；发热；辐射
+situated* [ˈsɪtʃueɪtɪd] a. 位于……的；处于……境地的
+invader*  [ɪn'veɪdə(r)] n. 入侵者
+complete* /kəmˈpliːt/  a. 彻底的；完成的；绝对的  vt. 完成；结束
+kit       /kɪt/        n. 成套工具  v. 装备
+generate  /ˈdʒenəreɪt/ vt. 发生，生产（光、热、电等）；引起，导致
+remote*   /rɪˈməut/    a. 远的，长久的；遥远的，偏僻的；远程的；关系疏远的，脱离的；绝少的，微乎其微的；孤高的，冷淡的
+stove     /stəuv/      n. 炉
+avoid*    /əˈvɔɪd/     vt. 避免；躲开
+dismiss*  /dɪsˈmɪs/    v. 解雇，解散；驳回，不受理
+bucket    /ˈbʌkɪt/     n. 水桶
+owl       /aul/        n. 猫头鹰
+absenteeism* [ˌæbsənˈti:ɪzəm] n. 旷课；旷工
+apparent* /əˈpærənt/   a. 显然的；表面上的
+succumb*  /səˈkʌm/     vi. 屈服，屈从；（因……）死亡
+stretch   /stretʃ/     v. 伸展；延伸，延续，拉长；使倾注全力，使紧张  n. 一段（时间、路径）；伸展，延伸，延续
+
 Word List 35
 Word List 36
 Word List 37
