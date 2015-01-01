@@ -9,6 +9,8 @@ README
 以 [ ] 标注的音标是使用百度翻译（http://fanyi.baidu.com/#en/zh/） 查出来的
 以 { }  标注的音标是根据《雅思词汇词根+联想记忆法（乱序便携版）》书中的音标拼写出来的，也既是说在 Lingoes 和 百度都找不到合适的音标。
 
+范洪滔 <fanhongtao@gmail.com>
+
 Word List 01
 emperor   /ˈempərə(r)/ n. 皇帝；君主
 exact*    /ɪgˈzækt/    a. 精确的；准确的
@@ -2462,7 +2464,77 @@ marble    /ˈmɑːbl/     n. 大理石；弹子； [pl.] 弹子游戏
 booth     /buːð/       n. （隔开的）小房间；公用电话亭；售货棚
 imitation /ˏɪmɪˈteɪʃn/ n. 模仿；仿造；仿制品，假货，赝品
 exceed    /ɪkˈsiːd/    v. 超过，胜过
-
+cohesion* /kəuˈhiːʒn/  v. 结合，团结；凝聚力
+astound   /əˈstaund/   v. （使）震惊
+absorb*   /əbˈsɔːb/    v. 吸收；吸引……的注意，使全神贯注；把……并入，同化
+livestock /ˈlaɪvstɔk/  n. <总称> 家畜，牲畜
+decrease* /dɪˈkriːs/   v. 减少，减小  /ˈdiːkriːs/ n. 减少；减少量
+moral     /ˈmɔrəl/     a. 道德的，伦理的  n. [pl.] 品行，道德；寓意，教训
+weigh     /weɪ/        v. 称重；认真考虑，权衡
+ceramic   [səˈræmɪk]   a. 陶器的  n. [pl.] 陶瓷器
+acquisition /ˏækwɪˈzɪʃn/ n. 取得；获得物
+character* /ˈkærəktə(r)/ n. 性格，品质；性质，特性；人物，角色；（书写或印刷）符号，（汉）字
+arrange*  /əˈreɪndʒ/   v. 安排；排列
+conservation* /ˏkɔnsəˈveɪʃn/ n. 保存；保护
+earthworm [ˈɜ:θˌwɜ:m]  n. 蚯蚓；小人
+entice    /ɪnˈtaɪs/    v. 怂恿，引诱
+manipulative [mə'nɪpjələtɪv] a. 操纵别人的；老于世故的
+memorise  /ˈmeməraɪz/  vt. 记住，熟记
+retrenchment [rɪ'trentʃmənt] n. 节省；削减
+motivational [ˌməʊtɪ'veɪʃənl] a. 动机的，有关动机的
+reinforcement [ˌri:ɪn'fɔ:smənt] n. 增援，加强，加固
+intervention [ˌɪntə'venʃn] n. 干涉，干预，介入
+infirmity [ɪn'fɜ:mətɪ] n. 虚弱，衰弱
+glossy    ['ɡlɒsɪ]     a. 有光泽的，光滑的
+escalate  /ˈeskəleɪt/  v. （使）逐步增长或发展，（使）逐步升级
+extravagance [ɪkˈstrævəgəns] n. 奢侈，挥霍；放肆的言行
+victimise /ˈvɪktɪmaɪz/ v. （使）受害，迫害
+evaluation [ɪˌvæljʊ'eɪʃn] n. 估价，评价
+maternal  /məˈtɜːnl/   a. 母亲的；母系的
+crusade   /kruːˈseɪd/  n. 十字军（远征）；斗争，运动  v. 加入十字军，投身正义运动
+recalcitrant /rɪˈkælsɪtrənt/ a. 顽抗的，反抗的
+mortality /mɔːˈtælətɪ/ n. 死亡率
+taunt     /tɔːnt/      vt. 嘲笑，讥笑  n. [常pl.] 嘲弄的言语，讥讽
+disseminate /dɪˈsemɪneɪt/ v. 散布，传播
+sanction  /ˈsæŋkʃn/    v. 批准，认可  n. 批准，认可；约束因素，约束力；[常pl.] 国际制裁
+frustration [frʌ'streɪʃn] n. 沮丧，不满
+invert*   /ɪnˈvɜːt/    vt. （使）倒转，（使）颠倒
+recipe    /ˈresəpɪ/    n. 食谱；方法，秘诀，秘方
+condense* /kənˈdens/   v. （使）压缩，精简；（使）凝结
+unfortunately* [ʌnˈfɔ:tʃənətli] ad. 不幸地
+gather*   /ˈgæðə(r)/   v. 聚焦，集合，聚拢；收集，采集；逐渐增加；猜想，推测
+Cantonese* /ˏkæntəˈniːz/ n./a. 广东人（的）；广东话（的）
+advertise* /ˈædvətaɪz/ vt. 为……做广告；宣传；（在报刊、电视、广播中）公告，公布
+utility*  /juːˈtɪlətɪ/ n. 功用，效用； [常pl.] 公用事业
+exhibit*  /ɪgˈzɪbɪt/   n. 展览品  v. 陈列，展览；显示
+irrevocable* /ɪˈrevəkəbl/ a. 无法取消的，不能改变的
+shelter*  /ˈʃeltə(r)/  n. 掩蔽（处），隐蔽（处）；住所；保护  v. 掩蔽；躲避
+stock     /stɔk/       n. 储备品；股票； <总称> 家畜  v. 储备  a. 常备的
+devise*   /dɪˈvaɪz/    vt. 设计，发明
+career*   /kəˈrɪə(r)/  n. 生涯；经历；职业
+humidity  [hju:ˈmɪdəti] n. 湿度；潮湿
+hollow    /ˈhɔləu/     a. 空的，空洞的；（声音）沉闷的；虚伪的，空虚的  v. 挖空，凿空
+statistic [stəˈtɪstɪk] n. 统计数值；统计学
+bark*     /bɑːk/       vi. 吠叫  n. 犬吠声；树皮
+burrow*   /ˈbʌrəu/     v. 挖掘，钻进；翻寻  n. 地洞
+equivalent /ɪˈkwɪvələnt/ a. 相等的，等量的  n. 相等物，等价物
+fatigue   /fəˈtiːg/    n. 疲劳，劳累  v. （使）疲劳
+bibliography /ˏbɪblɪˈɔgrəfɪ/ n. 参考书目；书目；文献学
+probable* /ˈprɔbəbl/   a. 很可能的，大概的
+fortnight /ˈfɔːtnaɪt/  n. 两星期，十四天
+treadmill* [ˈtredmɪl]  n. （人或畜力的）踏车；累人的活；单调的例行工作，乏味繁重的工作
+flavour   /ˈfleɪvə(r)/ n. 风味，滋味  vt. 给……调味
+asymmetry* [ˌeɪ'sɪmətrɪ] n. 不对称
+lethal*   /ˈliːθl/     a. 致命的，破坏性的，毁灭性的；有害的
+stare     /steə(r)/    n./vi. 盯
+bungalow* /ˈbʌŋgələu/  n. （带走廊的）平房
+colony*   /ˈkɔlənɪ/    n. 殖民地；（动植物的）群体
+stab      [stæb]       v. 刺，戳
+fingerprint ['fɪŋɡəprɪnt] n. 指纹，手印
+enthusiasm /ɪnˈθjuːzɪæzəm/ n. 热情，热心，积极性；热衷的事物
+briefly*  [ˈbri:fli]   ad. 暂时地；简要地
+flint*    /flɪnt/      n. 火石，打火石
+commodity* /kəˈmɔdətɪ/ n. 商品，货物；日用品
 
 Word List 34
 Word List 35
