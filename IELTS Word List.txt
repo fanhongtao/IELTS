@@ -2613,6 +2613,84 @@ succumb*  /səˈkʌm/     vi. 屈服，屈从；（因……）死亡
 stretch   /stretʃ/     v. 伸展；延伸，延续，拉长；使倾注全力，使紧张  n. 一段（时间、路径）；伸展，延伸，延续
 
 Word List 35
+minister* /ˈmɪnɪstə(r)/ n. 部长；外交使节；牧师
+combustion* /kəmˈbʌstʃən/ n. 燃烧；燃烧过程
+veterinary* /ˈvetrɪnrɪ/ a. 兽医的
+plausible /ˈplɔːzəbl/  a. 似有道理的，貌似真实的；嘴巧的
+elucidate /ɪˈluːsɪdeɪt/ vt. 阐明，使……清楚
+transient /ˈtrænzɪənt/ a. 短暂的，转瞬即逝的  n. 在某地短暂停留或工作的人
+sanitation /ˏsænɪˈteɪʃn/ n. （公共）卫生，卫生设施
+distortion [dɪ'stɔ:ʃn] n. 扭曲，变形；曲解，歪曲
+altruistic [ˌæltrʊ'ɪstɪk] a. 无私的，为他人着想的
+climatic  [klaɪˈmætɪk] a. 气候（上）的
+pragmatic /prægˈmætɪk/ a. 务实的；实事求是的；实用主义观点的
+dwindle   /ˈdwɪndl/    v. （使）变小，（使）缩小
+disdain   /dɪsˈdeɪn/   v./n. 鄙视，蔑视
+constituent /kənˈstɪtjuənt/ n. 成分，要素；选区内的选民  a. 组成的；有宪法制定或修改权的
+impetus   /ˈɪmpɪtəs/   n. 推动，促进，刺激；推动力
+malleable /ˈmælɪəbl/   a. 可塑的；易改变的
+renaissance /rɪˈneɪsns/ n. [the R-] （欧洲14至16世纪的）文艺复兴，文艺复兴时期；（文学、艺术等的）复兴、新生
+incongruity [ˌɪnkɒn'ɡru:ətɪ] n. 不和谐，不相称；不协调或不一致的事物
+instinctual [ɪn'stɪŋktʃʊəl] a. 本能的
+pedigree  /ˈpedɪgriː/  n. 家谱；门第；血统
+scuffle   /ˈskʌfl/     n./vi. 扭打，混战
+treatise  /ˈtriːtɪz/   n. 论文；专著
+hypothetical [ˌhaɪpəˈθetɪkl] a. 假设的，假定的；爱猜想的
+smother*  /ˈsmʌðə(r)/  v. 厚厚的覆盖；（使）窒息；把（火）闷熄
+excess*   /ɪkˈses/     n. 超越；过量  /ˈekses/ a. 过量的，额外的
+spine     /spaɪn/      n. 脊椎，脊柱；（动植物的）刺，刺毛；书脊；<喻> 中心
+stress*   /stres/      n. 压力；重音；强调，重点，着重  vt. 强调；重读
+smooth*   /smuːð/      a. 顺利的；流畅的；协调的
+incur*    /ɪnˈkɜː(r)/  vt. 招致，遭受
+missile*  /ˈmɪsaɪl/    n. 发射物；导弹，飞弹
+compulsively* [kəm'pʌlsɪvlɪ] ad. 强制地；禁不住地
+wrap      /ræp/        v. 裹；包；缠绕
+confine   /kənˈfaɪn/   vt. 限制，仅限于；管制，禁闭  n. [pl.] 界限，范围
+limitation* /ˏlɪmɪˈteɪʃn/ n. 限制；局限
+chain     /tʃeɪn/      n. 链，链条；一连串，一系列； [pl.] 枷锁，镣铐；联号，连锁店  vt. 用链条拴住
+sip       /sɪp/        v. 小口地喝；吸吮
+tedious   /ˈtiːdɪəs/   a. 冗长乏味的，单调的
+pathology* /pəˈθɔlədʒɪ/ n. 病理学；病变
+setting*  /ˈsetɪŋ/     n. 环境；背景；安置
+mood*     /muːd/       n. 心情，情绪
+extinct*  /ɪkˈstɪŋkt/  a. 灭绝的；废弃的
+aridity   [ə'rɪdətɪ]   n. 干旱；乏味
+vision*   /ˈvɪʒn/      n. 想象力；视力，视觉；梦幻，幻觉
+sausage   /ˈsɔsɪdʒ/    n. 香肠
+organism  /ˈɔːgənɪzəm/ n. 生物；有机体
+surveillance /sɜːˈveɪləns/ n. 监视，盯梢
+senior    /ˈsiːnɪə(r)/ a. 资格较老的；年长的  n. 较年长者；（中学或大学的）毕业班学生
+vague     /veɪg/       a. 模糊的；含糊的
+translate* [træns'leɪt] v. 翻译
+poverty   /ˈpɔvətɪ/    n. 贫穷
+breakwater* /ˈbreɪkwɔːtə(r)/ n. 防浪堤
+modify    /ˈmɔdɪfaɪ/   vt. 更改，修改；（语法上）修改
+clockwise [ˈklɒkwaɪz]  a./ad. 顺时针方向的/地
+isolate*  /ˈaɪsəleɪt/  vt. 使陆离，使孤立
+highlight /ˈhaɪlaɪt/   vt. 强调，突出；以强烈光线照射；集中注意力于  n. 最精彩的部分，最重要的事件
+moist     /mɔɪst/      a. 湿润的，潮湿的
+threaten  /θretn/      v. 威胁，恐吓；预示（危险）快要来临；是……的征兆，可能发生
+underling* /ˈʌndəlɪŋ/  n. 职位低的人，下属
+medium    /ˈmiːdɪəm/   n. 媒质，媒介；工具，手段；（细菌等的）生存环境  a. 中等的；平均的
+detail    /ˈdiːteɪl/   n. 细节，详情；枝节，琐事  vt. 详述，详细说明
+compile   /kəmˈpaɪl/   vt. 汇编；编纂
+induction* /ɪnˈdʌkʃn/  n. 就职；归纳；感应
+link*     /lɪŋk/       n. 环节；联系，纽带  v. 连接，联系
+foreland* /ˈfɔːlənd/   n. 前沿地；岬角
+unemployment /ˏʌnɪmˈplɔɪmənt/ n. 失业；失业人数
+option    /ˈɔpʃn/      n. 选择（权）；（供）选择的物（或人）；选课
+bay       /beɪ/        n. 海湾
+slogan    /ˈsləugən/   n. 标语，口号
+instinct  /ˈɪnstɪŋkt/  n. 本能，直觉；天性
+marsh     /mɑːʃ/       n. 沼泽；湿地
+mental*   /ˈmentl/     a. 心理的，精神的；智力的
+hospitality /ˏhɔspɪˈtælətɪ/ n. （对客人的）友好款待，好客；盛情；招待礼节
+origin*   /ˈɔrɪdʒɪn/   n. 起源；[常pl.] 出身
+array*    /əˈreɪ/      n. 陈列；大批  vt. 部署
+remain*   /rɪˈmeɪn/    v. 保持；仍旧是；剩下  n. [pl.] 残余；遗迹；残骸，遗体
+comprehension* /ˏkɔmprɪˈhenʃn/ n. 理解；理解力
+journal*　/ˈdʒɜːnl/    ｎ. 杂志；日报；日志
+
 Word List 36
 Word List 37
 Word List 38
