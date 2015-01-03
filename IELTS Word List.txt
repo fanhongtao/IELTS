@@ -3006,6 +3006,84 @@ surf      /sɜːf/       v. 冲浪
 swear     /sweə(r)/    v. 宣（誓）；诅咒
 
 Word List 40
+create*   /kriːˈeɪt/   vt. 创造，创作；产生
+mime*     /maɪm/       v. 模拟，模仿  n. 哑剧表演；哑剧演员
+impose    /ɪmˈpəuz/    v. 把……强加于；征（税等）；处以（罚款、监禁等）
+likelihood [ˈlaɪklihʊd] n. 可能；可能性
+explode   /ɪkˈspləud/  v. （使）爆炸；爆发；激增
+spectacular /spekˈtækjulə(r)/ a. 壮观的；令人惊叹的  n. 壮观的场面；精彩的表演
+enormous* /ɪˈnɔːməs/   a. 巨大的，庞大的，极大的
+counterproductive [ˌkaʊntəprəˈdʌktɪv] a. 产生相反效果的，适得其反的
+variant   /ˈveərɪənt/  a. 不同的  n. 变量；变体
+healing   ['hi:lɪŋ]    n. 康复，复原  a. 有治疗作用的
+autocratic [ˌɔ:tə'krætɪk] a. 独裁的，专制的
+emulate   /ˈemjuleɪt/  vt. 与……竞争，赶上；仿真，模仿
+disastrous [dɪˈzɑ:strəs] a. 损失惨重的，灾难性的；极坏的
+topple    /ˈtɔpl/      v. 倒塌，倒下；打倒，推翻
+resilience [rɪˈzɪliəns] n. 弹性，弹力；复原力；适应性；（指人）乐观的性情
+collateral /kəˈlætərəl/ a. 并行的；间接的，附带的
+colossal  /kəˈlɔsl/    a. 巨大的，庞大的
+tackle    /ˈtækl/      v. 对付，处理；向某人提起（问题或困难情况）；（足球等比赛中）抢截，抢球
+coordinate [kəʊ'ɔ:dɪneɪt] v. 调整，协调  {kəuˈɔːdɪnət}  n. 同等者，同等物  a. 同等的，并列的
+supplementary /ˏsʌplɪˈmentrɪ/ a. 增补的，补充的
+scrutiny  /ˈskruːtɪnɪ/ n. 详细检查，细看；监视
+cognition /kɔgˈnɪʃn/   n. 感知，认知；认识力
+repel     /rɪˈpel/     vt. 击退，驱逐；抵制，拒绝；使反感，使厌恶
+domesticate /dəˈmestɪkeɪt/ vt. 驯养，教化；使喜爱家居生活
+exhaustive /ɪgˈzɔːstɪv/ a. 包揽无遗的，彻底的，详尽的
+calibrate /ˈkælɪbreɪt/ vt. 标定，划分；校准刻度
+descend   /dɪˈsend/    v. 下来，下降；遗传
+frontier  /ˈfrʌntɪə(r)/ n. 边境，边界；开发地区的边缘地带； [常pl.] 前沿，新领域
+fascinating [ˈfæsɪneɪtɪŋ] a. 迷人的
+stroke    /strəuk/     n. 击，打；（病）突然发作，中风；（体育中的）击球；笔触，一笔；（游泳或划船的）划，划法；一击；报时的钟声；抚摸  vt. 抚摸
+solar     /ˈsəulə(r)/  a. 太阳的；（利用）太阳能的
+sympathise ['sɪmpəθaɪz] vi. 同情；赞同
+fusion*   /ˈfjuːʒn/    n. 熔化，熔合；聚变
+slash     /slæʃ/       n. 砍痕，伤痕；斜线号  v. 砍；大幅度消减
+diversity* /daɪˈvɜːsətɪ/ n. 多样性；差异
+decline*  /dɪˈklaɪn/   n./v. 下降，减少；衰退，衰落
+crisis*   /ˈkraɪsɪs/   n. 危机；紧要关头，关键阶段
+edible    [ˈedəbl]     a. 可食用的
+collaboration [kəˌlæbəˈreɪʃn] n. 合作，协作；勾结，通敌
+decouple* [di:'kʌpl]   v. 减弱，减少
+participant* [pɑ:ˈtɪsɪpənt] n. 参加者，参与者
+weaken*   ['wi:kən]    v. （使）变弱，（使）减弱
+distract  /dɪˈstrækt/  vt. 转移（注意力）；使分心
+frown*    /fraun/      vi. （表示愤怒或烦心而）皱眉
+skew*     /skjuː/      vt. 使偏；曲解  a. 歪斜的
+glove*    /glʌv/       n. 手套
+beehive*  [ˈbi:haɪv]   n. 蜂窝；蜂箱
+astray    /əˈstreɪ/    ad. 迷路地；误入歧途地
+theory*   /ˈθɪərɪ/     n. 理论，原理；学说；意见，看法
+weakness* [ˈwi:knəs]   n. 虚弱；缺点；偏好，嗜好
+portion   /ˈpɔːʃn/     n. 部分；一份  vt. 划分，分配
+compound* /kəmˈpaund/  vt. 使恶化，加重；使化合，使合成  /ˈkɔmpaund/ n. 化合物，复合物；（有围墙或篱笆等的）楼群，大院  a. 复合的，化合的；综合的
+span      /spæn/       n. 跨距；一段时间  v. 横跨；持续
+vacancy   /ˈveɪkənsɪ/  n. 空位，空房间；（职位的）空缺，空职；无主意，空虚，茫然若失
+locality  /ləuˈkælətɪ/ n. 位置；地区
+circle*   /ˈsɜːkl/     n. 圆；圈，环状物；圈子，阶层；周期，循环  v. 圈出；盘旋，环绕……移动
+accuracy  /ˈækjərəsɪ/  n. 准确（性），精确（性）
+tolerate  /ˈtɔləreɪt/  vt. 容忍，宽容；容许，承认
+afford*   /əˈfɔːd/     v. 负担得起
+excellent* /ˈeksələnt/ a. 极好的；杰出的
+connect*  /kəˈnekt/    v. 连接，衔接；联合，关联；由……联想到；给……接通电话
+cylinder  /ˈsɪlɪndə(r)/ n. 圆柱体；圆筒；汽缸
+disadvantage /ˏdɪsədˈvɑːntɪdʒ/ n. 缺点，不利
+participate* /pɑːˈtɪsɪpeɪt/ vi. 参加，参与
+principle /ˈprɪnsəpl/  n. 原则，原理；规范，准则；基本信念，信条
+refreshment /rɪˈfreʃmənt/ n. （精力的）恢复； [pl.] 茶点，点心，饮料
+deteriorate* /dɪˈtɪərɪəreɪt/ v. 变坏，恶化；退化
+scorching [ˈskɔ:tʃɪŋ]  a. 酷热的；激烈的
+meantime  /ˈmiːntaɪm/  n. 其时  ad. 同时，当时
+townscape* [ˈtaʊnskeɪp] n. 市镇风光
+upper*    /ˈʌpə(r)/    a. 上面的；地位较高的
+innocent  /ˈɪnəsnt/    a. 清白的；无害的；天真的
+emphasis  /ˈemfəsɪs/   n. 强调；重要性
+approach* /əˈprəutʃ/   v. 靠近，接近；来临  n. 靠近，接近；方法，途径
+duration  /djuˈreɪʃn/  n. 持续，持续的时间，期间
+primarily [praɪˈmerəli] ad. 首先；主要地，首要地
+due*      /djuː/       a. 到期的，预期的；应有的，应得的；正当的
+
 Word List 41
 Word List 42
 Word List 43
