@@ -2861,11 +2861,11 @@ aspire    /əˈspaɪə(r)/ v. 向往，渴望，追求；有志于，有抱负
 recession /rɪˈseʃn/    n. （经济的）衰退，衰退时期；撤回，退回
 miscellaneous /ˏmɪsəˈleɪnɪəs/ a. 各种各样的；混杂的
 utilization [ˌju:təlaɪ'zeɪʃn] n. 利用
-caustic   /ˈkɔːstɪk/  n. 腐蚀剂  a. 腐蚀性的；（指评论）讽刺的，挖苦的
+caustic   /ˈkɔːstɪk/   n. 腐蚀剂  a. 腐蚀性的；（指评论）讽刺的，挖苦的
 detergent /dɪˈtɜːdʒənt/ a. 净化的，清洁的  n. 清洁剂
-reclaim   /rɪˈkleɪm/  vt. 纠正；要求归还，收回；开垦（土地）
-deflect   /dɪˈflekt/  v. （使）偏斜，（使）转向
-trench    /trentʃ/    n. 沟，壕沟  v. 挖沟
+reclaim   /rɪˈkleɪm/   vt. 纠正；要求归还，收回；开垦（土地）
+deflect   /dɪˈflekt/   v. （使）偏斜，（使）转向
+trench    /trentʃ/     n. 沟，壕沟  v. 挖沟
 holistically {həʊ'lɪstɪklɪ} ad. 整体地，全盘地
 urbanization [ˌɜ:bənaɪ'zeɪʃn] n. 城市化，都市化
 insularity [ˌɪnsjʊ'lærətɪ] n. 岛国（状态）；与外界隔绝的生活状况；（思想、观点等的）褊狭
@@ -2924,6 +2924,87 @@ specify   /ˈspesɪfaɪ/  v. 指定；详细说明
 deviance* ['di:vɪəns]  n. 异常；偏常行为
 
 Word List 39
+estimate* /ˈestɪmeɪt/  v. 估计，估量；估价；评价  /ˈestɪmət/ n. 估计，估量；估价；评价
+tick off  [tik ɔf]     用记号勾出，给……打核对号
+livelihood* /ˈlaɪvlɪhud/ n. 生活，生计
+manufacture [ˌmænjʊ'fæktʃə(r)] vt. 大量制造，成批生产  n. 大量制造；工业品
+censure*  /ˈsenʃə(r)/  vt./n. 指责，谴责，责难
+voltage   [ˈvəʊltɪdʒ]  n. 电压
+logic     /ˈlɔdʒɪk/    n. 逻辑；逻辑学
+metro*    /ˈmetrəu/    n. 地下铁路
+enroll*   [ɪn'rəʊl]    v. 入学，登记；加入；招收
+civilization /ˏsɪvəlaɪˈzeɪʃn/ n. 文明（社会），文化
+compendium* /kəmˈpendɪəm/ n. 简要，概略
+embark    /ɪmˈbɑːk/    v. （使）上船或飞机；（使）从事
+deserve*  /dɪˈzɜːv/    v. 应得；值得
+eject     /ɪˈdʒekt/    v. 弹出；喷出；驱逐，逐出
+verification [ˌverɪfɪ'keɪʃn] n. 确认
+autoimmune [ˌɔ:təʊɪˈmju:n] a. 自身免疫的
+inheritance [ɪn'herɪtəns] n. 遗传；继承，继承物；遗产，遗赠
+relentless [rɪˈlentləs] a. 无情的，残酷的
+requisite /ˈrekwɪzɪt/  a. （情况）需要的；（成功）必要的  n. 必需品；要素
+dizziness ['dɪzɪnəs]   n. 头昏眼花，眩晕
+periphery /pəˈrɪfərɪ/  n. 不重要的部分；外围
+credential [krəˈdenʃl] n. 证明书；（学历、资历）资格证书；证件
+facsimile /fækˈsɪməlɪ/ n. 复制品；副本
+reel      /riːl/       n. 卷轴，卷筒，卷盘，线轴  v. 摇摇晃晃地移动，蹒跚；眩晕，发昏；卷，绕
+churn     /tʃɜːn/      n. （制作黄油用的）搅乳器；  v. 用搅乳器搅拌；剧烈搅动；猛烈翻滚；反胃，恶心
+nocturnal /nɔkˈtɜːnl/  a. 夜晚的；夜晚发生的；夜晚活动的
+obstruct  /əbˈstrʌkt/  v. 妨碍，阻止；阻塞；截断
+prohibitive /prəˈhɪbətɪv/ a. 禁止的，抑制的；令人望而却步的
+navigation [ˌnævɪˈgeɪʃn] n. 航空，航海，航行；导航，领航
+entwine   /ɪnˈtwaɪn/   vt. 使缠住，使盘绕
+monumental /ˏmɔnjuˈmentl/ a. 纪念碑的，纪念物的；不朽的，有重大意义的
+reiterate /riːˈɪtəreɪt/ vt. 重复，反复；反复地说，重申
+jeopardise /ˈdʒepədaɪz/ vt. 危害，使受危困
+peripheral [pəˈrɪfərəl] a. 外围的；次要的，附带的  n. 外围设备
+elusive   /ɪˈluːsɪv/   a. 难懂的，难捉摸的；易忘的
+distinctive* /dɪˈstɪŋktɪv/ a. 出众的；有特色的
+board*    /bɔːd/       n. 板；委员会
+decompression [ˌdi:kəmˈpreʃn] n. 减压；减压室
+prevalent /ˈprevələnt/ a. 流行的，普遍的
+twist*    /twɪst/      v. 缠绕；捻；扭曲，弯曲  n. 弯曲
+rent*     /rent/       v. 租借；出租  n. 租金
+eminent*  /ˈemɪnənt/   a. 杰出的，显赫的
+crescent* /ˈkresnt/    n. 新月，月牙；新月形（物）  a. 新月形的
+sucker    /ˈsʌkə(r)/   n. 吸盘；吸根，根出条
+calm      /kɑːm/       a. 镇静的；平静的  v. （使）平静，（使）镇静
+scope*    /skəup/      n. 眼界，见识；（活动、影响等的）范围；（发挥能力等的）余地，机会
+cooperate /kəuˈɔpəreɪt/ vi. 合作，协作
+applaud   /əˈplɔːd/    v. （向……）鼓掌，喝彩；称赞
+appraisal [əˈpreɪzl]   n. 评估，评价
+allowance /əˈlauəns/   n. 津贴；允许，容忍
+heir      /eə(r)/      n. 继承人
+exploit*  /ɪkˈsplɔɪt/  vt. 剥削；开发，开拓；利用  /ˈeksplɔɪt/ n. 英勇行为；业绩，功绩
+domestic  /dəˈmestɪk/  a. 本国的；家庭的；驯养的
+unexpected /ʌnɪkˈspektɪd/ a. 想不到的，意外的
+counsel   /ˈkaunsl/    n. 律师，法律顾问；建议，忠告  v. 商议，劝告
+sticky    /ˈstɪkɪ/     a. 黏性的；（天气）湿热的
+competition* /ˏkɔmpəˈtɪʃn/ n. 竞争；比赛
+responsible* /rɪˈspɔnsəbl/ a. 有责任感的；可靠的
+critic    /ˈkrɪtɪk/    n. 批评家；爱挑剔的人
+extensive /ɪkˈstensɪv/ a. 广大的，广阔的；广泛的
+corridor  /ˈkɔrɪdɔː(r)/ n. 过道，走廊
+imagine*  /ɪˈmædʒɪn/   v. 想象；猜想
+interact  /ˏɪntərˈækt/ vt. 相互作用；相互影响
+starchy*  ['stɑ:tʃɪ]   a. 含淀粉的
+trivial*  /ˈtrɪvɪəl/   a. 无价值的，琐屑的；平庸的，普通的
+exorbitant /ɪgˈzɔːbɪtənt/ a. 过分的，不合理的
+large-scale* [lɑ:dʒ skeɪl] a. 大规模的，大范围的
+region*   /ˈriːdʒən/   n. 地区；范围
+alternate /ˈɔːltəneɪt/ v. （使）轮流，（使）交替  /ɔːlˈtɜːnət/ a. 轮流的；间隔的；交替的
+steer     /stɪə(r)/    v. 引导；驾驶
+bargain   /ˈbɑːgɪn/    vi. 讨价还价  n. 协议；交易；便宜货
+infection /ɪnˈfekʃn/   n. 传染，感染，侵染，传播；传染病
+conservative /kənˈsɜːvətɪv/ a. 保守的；传统的；守旧的  n. 保守的人
+spin*     /spɪn/       v. （使）旋转  n. 旋转
+personnel /ˏpɜːsəˈnel/ n. 全体人员，员工
+liver     /ˈlɪvə(r)/   n. 生活者，居住者；肝脏
+inflammable* /ɪnˈflæməbl/ a. 易燃的；易怒的
+disfigure* /dɪsˈfɪgə(r)/ vt. 使毁容，使变丑
+surf      /sɜːf/       v. 冲浪
+swear     /sweə(r)/    v. 宣（誓）；诅咒
+
 Word List 40
 Word List 41
 Word List 42
