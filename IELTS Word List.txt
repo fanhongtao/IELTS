@@ -3163,6 +3163,79 @@ abuse*    /əˈbjuːs/    n. 滥用，妄用；虐待，伤害；辱骂，毁谤
 fake      /feɪk/       a. 假的  n. 假货；骗子  v. 伪装
 
 Word List 42
+incorporate /ɪnˈkɔːpəreɪt/ vt. 把……合并，纳入；包含，吸收
+trace     /treɪs/      vt. 追踪，追查；追溯；描摹，标出  n. 痕迹；微量
+convey*   /kənˈveɪ/    vt. 传送，运送；表达，传递
+boundary  /ˈbaundrɪ/   n. 分界线；边界
+frank     /fræŋk/      a. 坦白的，直率的
+bonus     /ˈbəunəs/    n. 资金，红利；好处
+militant* /ˈmɪlɪtənt/  a. 好战的，好斗的；激进的  n. 好斗的人，激进分子
+starve*   /stɑːv/      v. （使）挨饿；（使）饿死
+refresh   /rɪˈfreʃ/    v. （使）复原，更新；（使）精神振作，（使）精力恢复
+dystrophy* /ˈdɪstrəfɪ/ n. 营养障碍；营养不良
+conduce*  /kənˈdjuːs/  v. 有益于，有助于；导致
+consulate* [ˈkɒnsjələt] n. 领事馆；领事职位，领事任期
+contaminate* /kənˈtæmɪneɪt/ n. 致污物，污染物
+demerit*  /diːˈmerɪt/  n. 过失；缺点，短处
+denomination* /dɪˏnɔmɪˈneɪʃn/ n. 命名；（货币等的）单位；宗教派别
+disturbance* /dɪˈstɜːbəns/ n. 扰乱，打扰；骚乱，混乱；心神不安，烦恼
+enjoyable* [ɪnˈdʒɔɪəbl] a. 令人愉快的，使人快乐的
+expiry*   /ɪkˈspaɪərɪ/ n. 满期，终结
+fluctuation* [ˌflʌktʃʊ'eɪʃn] n. 波动，起伏；动摇
+frequency* /ˈfriːkwənsɪ/ n. 频繁；频率
+hamlet*   /ˈhæmlɪt/    n. 小村庄
+hence*    /hens/       ad. 因此，所以；今后，从此
+inadequate* /ɪnˈædɪkwət/ a. 不充分的；不适当的
+keystone* ['ki:stəʊn]  n. 拱顶石；（计划，论据等的）基础，主旨
+manifest* /ˈmænɪfest/  a. 明显的  vt. 表明，显示  n. 货物清单
+marginally* [ˈmɑ:dʒɪnəli] ad. 稍微，些微
+moderately* [ˈmɒdərətli] ad. 适度地，不过分地，有节制地
+noticeable* [ˈnəʊtɪsəbl] a. 显而易见的；明显的
+optic*    /ˈɔptɪk/     a. 眼的，视觉的；光学的  n. 光学仪器
+outweigh* /ˏautˈweɪ/   vt. 比……重；（在重要性、影响上）比……更重要；胜过，强于
+long-term* [lɒŋ tɜ:m]  a. 长期的
+adverse   /ˈædvɜːs/    a. 不利的，有害的
+finale*   /fɪˈnɑːlɪ/   n. （音乐的）终曲；终场
+astonish  /əˈstɔnɪʃ/   vt. 使惊讶，使吃惊
+charge*   /tʃɑːdʒ/     n. 价钱，费用；管理；照管；掌管；控告，指控；电荷，电量  v. 索取（金额），要价；控告，指控；委以；指示；（使）充电
+module    /ˈmɔdjuːl/   n. 模块；模式；（航空器中的）舱；组件；单元
+corps*    /kɔː(r)/     n. 部队；军团
+petroleum /pəˈtrəulɪəm/ n. 石油
+magma     /ˈmægmə/     n. 岩浆
+stylish*  [ˈstaɪlɪʃ]   a. 时髦的；漂亮的
+dump*     /dʌmp/       vt. 倾卸，倾倒  n. 垃圾场
+debris    /ˈdeɪbriː/   n. 碎屑，残骸；[地质] 岩屑
+irony*    /ˈaɪərənɪ/   n. 反话，讽刺；出人意料的事情
+component* /kəmˈpəunənt/ n. 成分；零部件  a. 构成的，组成的
+fieldwork* [ˈfi:ldwɜ:k] n. 实地调查，野外考察
+contaminate /kənˈtæmɪneɪt/ vt. 污染
+applicant /ˈæplɪkənt/  n. 申请人
+strap*    /stræp/      n. 带子  vt. 捆扎；（用绷带）包扎
+fundamental /ˏfʌndəˈmentl/ a. 基础的，基本的  n. [pl.] 基本原理
+conclusion* /kənˈkluːʒn/ n. 结论，推论；结束，结尾；[法] 缔结，认定
+intensity [ɪn'tensətɪ] n. 强烈，剧烈；强度
+notable*  /ˈnəutəbl/   a. 值得注意的；显著的，杰出的，显赫的  n. 名人，要人
+implement /ˈɪmplɪment/ vt. 使生效，实施；贯彻，执行  /ˈɪmplɪmənt/ n. 工具
+isle      /aɪl/        n. 小岛，岛
+cervical* [ˈsɜ:vɪkl]   a. 子宫颈；颈部的
+plot      /plɔt/       n. 情节；阴谋；小块土地
+acquaint  /əˈkweɪnt/   vt. （使）认识；（使）熟悉
+violence  [ˈvaɪələns]  n. 暴力行为；激烈，猛烈
+revolve   /rɪˈvɔlv/    v. （使）旋转
+vegetarian [ˌvedʒə'teərɪən] n. 素食者  a. 素食者的
+ratio     /ˈreɪʃɪəu/   n. 比，比率
+scream*   /skriːm/     v. 尖叫  n. 尖叫声
+steep*    /stiːp/      a. 陡峭的；（价格等）过高的；急剧的
+interior* /ɪnˈtɪərɪə(r)/ a. 内部的，里面的  n. 内部；内地
+analogous* /əˈnæləgəs/ a. 类似的
+cookery*  /ˈkukərɪ/    n. 烹调法
+high-tech* [haɪ tek]   n. 高科技
+aggressive* /əˈgresɪv/ a. 侵犯的，侵略的；挑衅的；有进取心的，有冲劲的
+process*  /ˈprəuses/   n. 过程；步骤，程序  vt. 加工；处理；办理
+hum       /hʌm/        n. 嗡嗡声，嘈杂声  vi. 哼曲子；发嗡嗡声
+sinister* /ˈsɪnɪstə(r)/ a. 不吉祥的，凶兆的；险恶的，邪恶的
+refinement /rɪˈfaɪnmənt/ n. 精巧的附件，精制的改良品；精炼；文雅
+
 Word List 43
 Word List 44
 Word List 45
