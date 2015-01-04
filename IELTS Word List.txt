@@ -3400,6 +3400,81 @@ indication [ˌɪndɪˈkeɪʃn] n. 指示，象征
 insert    /ɪnˈsɜːt/    v. 插入，嵌入
 
 Word List 45
+in addition to* 除……之外
+certificate* /səˈtɪfɪkət/ n. 证书，执照
+severe*   /sɪˈvɪə(r)/  a. 严重的；严厉的；剧烈的
+diameter  /daɪˈæmɪtə(r)/ n. 直径
+gesture*  /ˈdʒestʃə(r)/ n. 姿势，姿态；手势  v. 做手势
+disclose  /dɪsˈkləuz/  vt. 揭露；透露；公开
+sheer*    /ʃɪə(r)/     a. 十足的；纯粹的；陡峭的
+successive /səkˈsesɪv/ a. 连续的
+balance*  /ˈbæləns/    n. 平衡；余额  vt. 平衡
+adjust*   /əˈdʒʌst/    v. 校准；调节；使……适应
+require*  /rɪˈkwaɪə(r)/ vt. 需要；命令；规定，要求
+fairly*   /feəlɪ/      ad. 相当地；公平地；简直，完全地
+precise   /prɪˈsaɪs/   a. 精确的，准确的；严谨的
+colour-blind* ['kʌlə(r) blaɪnd] a. 色盲的
+trustworthy [ˈtrʌstwɜ:ði] a. 值得信赖的，可靠的
+vomit     /ˈvɔmɪt/     n. 呕吐，呕吐物；催吐剂  v. 呕吐，恶心；喷出
+wrestle   /ˈresl/      v. 摔跤；全力对付；用力移动
+adolescence /ˏædəˈlesns/ n. 青春，青春期
+captivity [kæpˈtɪvəti] n. 囚禁，拘留
+commerce  /ˈkɔmɜːs/    n. 贸易，商业；交往，交流
+condensation /ˏkɔndenˈseɪʃn/ n. 浓缩，凝结
+facial    /ˈfeɪʃl/     a. 面部的；面部用的
+herbal    [ˈhɜ:bəl]    a. 草本植物的；药草（制）的  n. 草本植物志；药草书
+hover     /ˈhɔvə(r)/   v. （鸟等）翱翔，盘旋；逗留在近旁，徘徊；彷徨，犹豫
+imprecise /ˏɪmprɪˈsaɪs/ a. 不精确的，不严密的
+inactive  /ɪnˈæktɪv/   a. 不活动的；懒散的
+initiate  /ɪˈnɪʃɪeɪt/  vt. 开始，创造，发起；接纳（成员），让……加入  /ɪˈnɪʃɪət/ n. （新）加入组织者
+longitude /ˈlɔndʒɪtjuːd/ n. 经度，经线
+procrastinate /prəuˈkræstɪneɪt/ v. 耽搁，拖延
+rarity    /ˈreərətɪ/   n. 稀有；稀有的事物
+seclude   /sɪˈkluːd/   vt. 使隔离，使孤立
+ongoing*  /ˈɔngəuɪŋ/   a. 进行中的  n. 前进，发展
+almond*   /ˈɑːmənd/    n. 杏树；杏仁
+feed      /fiːd/       v. 喂养，为……提供食物；吃，以……为食  n. 饲料
+scenery*  /ˈsiːnərɪ/   n. 舞台布景；风景，景色
+stagnate* /stægˈneɪt/  v. （使）停滞；不发展
+ozone     /ˈəuzəun/    n. 臭氧
+tap       /tæp/        v. 轻拍；利用，开发
+owe*      /əu/         vt. 欠；把……归功于
+ministry  /ˈmɪnɪstrɪ/  n. （政府的）部
+laser     /ˈleɪzə(r)/  n. 激光
+individual /ˏɪndɪˈvɪdʒuəl/ a. 个别的，单独的；独特的  n. 个人，个体
+association* /əˏsəusɪˈeɪʃn/ n. 协会
+tempt*    /tempt/      vt. 引诱；吸引
+beneath*  /bɪˈniːθ/    prep./ad. 在下方
+naturally* /ˈnætʃrəlɪ/ ad. 当然，自然；天生地
+microscope /ˈmaɪkrəskəup/ n. 显微镜
+estate    /ɪˈsteɪt/    n. 个人财产，（尤指）遗产；土地，地产，（尤指）庄园
+discourage /dɪˈskʌrɪdʒ/ vt. 使泄气，使灰心；阻止，劝阻
+briefcase /ˈbriːfkeɪs/ n. 公文包
+candidate* /ˈkændɪdət/ n. 候选人，候补者；申请求职者；报考者
+melt      /melt/       v. （使）融化；（使）消散
+shrug     /ʃrʌg/       n./v. 耸肩
+frightened* [ˈfraɪtnd] a. 受惊的；受恐吓的
+relax*    [rɪ'læks]    v. （使）放松
+aerospace /ˈeərəuspeɪs/ n. 宇宙空间；航空航天技术
+suppose*  /səˈpəuz/    v. 假想，假定，猜想，推测；[用于祈使句] 假定，让；[常用于被动语态] 期望做（某事），认为应该做（某事）
+tenable*  /ˈtenəbl/    a. 站得住脚的；可防守的
+sustain*  /səˈsteɪn/   v. 支撑，撑住，承受住；维持，保持；经受，遭受，忍耐
+straw*    /strɔː/      n. 稻草；吸管
+border*   /ˈbɔːdə(r)/  n. 边缘；边界  v. 与……接壤；接近，毗邻
+dispenser* [dɪˈspensə(r)] n. 药剂师，配药师；分配者，施予者；自动售货机
+receiver  /rɪˈsiːvə(r)/ n. （电话）听筒；接收器
+monopoly  /məˈnɔpəlɪ/  n. 垄断，专卖；垄断商品，专卖商品
+bureaucracy /bjuəˈrɔkrəsɪ/ n. 官僚主义；官僚机构
+construction /kənˈstrʌkʃn/ n. 建造；建筑物；构造
+endorse*  /ɪnˈdɔːs/    vt. 支持，赞同
+embryo*   /ˈembrɪəu/   n. 胚，胚胎；事物的萌芽期
+silicon   /ˈsɪlɪkən/   n. 硅
+intelligence* /ɪnˈtelɪdʒəns/ n. 智力，理解力；情报
+mature    /məˈtjuə(r)/ a. 成熟的；深思熟虑的  v. （使）成熟
+discard*  /dɪˈskɑːd/   vt. 丢弃，遗弃
+membership [ˈmembəʃɪp] n. 会员身份；全体会员
+roast     /rəust/      a. 烤过的  n. 烤肉  v. 烤，炙
+
 Word List 46
 Word List 47
 
