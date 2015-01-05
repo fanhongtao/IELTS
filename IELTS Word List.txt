@@ -9,7 +9,10 @@ README
 以 [ ] 标注的音标是使用百度翻译（http://fanyi.baidu.com/#en/zh/） 查出来的
 以 { }  标注的音标是根据《雅思词汇词根+联想记忆法（乱序便携版）》书中的音标拼写出来的，也既是说在 Lingoes 和 百度都找不到合适的音标。
 
+根据对最后几章输入时间的统计，每录入一章节，大约需要花费一个小时的时间，这还是在后期因为找到一些快捷的方式，录入速度有所提高的情况下的统计结果，所以全部录入总计花费了48+小时的时间。不管怎么样，总算是录入完毕了。
+
 范洪滔 <fanhongtao@gmail.com>
+2015-01-05
 
 Word List 01
 emperor   /ˈempərə(r)/ n. 皇帝；君主
@@ -3558,6 +3561,83 @@ trivialize ['trɪvɪəlaɪz] vt. 使显得不重要，轻视，淡化
 assault   /əˈsɔːlt/    n. （武力或口头上的）攻击，袭击；侵犯人身罪；冲击；抨击  vt. 攻击，袭击；使难受 
 
 Word List 47
+obscene   /əbˈsiːn/    a. 淫秽的，猥亵的，下流的；可憎的，可恶的；（数量）大得惊人的，骇人听闻的
+authentic /ɔːˈθentɪk/  a. 真品的，真迹的；真正的，真实的，逼真的
+righteous /ˈraɪtʃəs/   a. 正义的，正直的；公正的；正当的
+purify    /ˈpjuərɪfaɪ/ vt. 使洁净，使纯洁，净化；提纯，精炼
+gregarious /grɪˈgeərɪəs/ a. 群居的；合群的；爱交际的
+heartless ['hɑ:tləs]   a. 无情的，狠心的；无生气的，没精打采的
+instil    /ɪnˈstɪl/    vt. 滴注；逐渐灌输；逐步培养（感受、思想等）
+infringe  /ɪnˈfrɪndʒ/  v. 侵犯，侵害；违背，触犯（法规）；干涉，干扰
+comic*    /ˈkɔmɪk/     a. 可笑的，滑稽的；喜剧的  n. 喜剧演员
+transplant /trænsˈplɑːnt/ vt. 移栽，移种（植物等）；移植（器官等）；使迁移，使移居  /ˈtrænsplɑːnt/ n. （器官等的）移植
+algebra   /ˈældʒɪbrə/  n. 代数
+spur      /spɜː(r)/    n. 刺激（物）；激励；靴刺，马刺  vt. 刺激，激励，鞭策；（用马刺）策马加速
+barbaric  /bɑːˈbærɪk/  a. 野蛮的，粗鲁的；残暴的，残忍的；原始部落的
+delinquent /dɪˈlɪŋkwənt/ a. 失职的；违法的；拖欠的  n. 违法者，罪犯（尤指少年犯）
+retaliate /rɪˈtælɪeɪt/ vi. 报复，反击；复仇
+perpetrate ['pɜ:pətreɪt] vt. 做（坏事），犯（罪）
+prosper   /ˈprɔspə(r)/ vi. 繁荣，兴旺；成功
+gorilla   /gəˈrɪlə/    n. 大猩猩
+sluttish  {ˈslʌtɪʃ}    a. 懒惰的，邋遢的；放荡的
+anchor    /ˈæŋkə(r)/   n. 锚；给人安全感的人（或物）；精神支柱；顶梁柱  v. 抛锚；使固定，系牢；使基于；主持（电视节目等）
+despoil   /dɪˈspɔɪl/   vt. 抢夺，掠夺；蹂躏，破坏
+discourteous /dɪsˈkɜːtɪəs/ a. 无礼的，粗鲁的
+gene      /dʒiːn/      n. 基因
+lax       /læks/       a. 懒散的；松弛的，不严格的，马虎的
+boost     /buːst/      vt. 使增长，使兴旺；鼓励，促进；为……作宣传，宣扬  n. 增加，提高；帮助，激励
+smear     /smɪə(r)/    v. 胡乱涂抹；弄脏，弄污；诽谤，诋毁；变得模糊不清，把（图画等）弄得模糊不清  n. 污迹，污渍；（显微镜的）涂片；诽谤，诋毁
+lenient   /ˈliːnɪənt/  a. （执法时）宽大的，宽容的；厚道的，仁慈的
+synthetic [sɪnˈθetɪk]  a. 人造的；合成的，综合的  n. 合成物；合成纤维（织物）
+enact     /ɪˈnækt/     v. 通过（法律）；扮演（角色）
+resent    /rɪˈzent/    v. 愤恨；对……表示愤恨，感到气愤
+affluent  /ˈæfluənt/   a. 丰富的，富裕的
+trunk     /trʌŋk/      n. 树干，躯干；大箱子；象鼻
+coexist   /ˏkəuɪgˈzɪst/ vi. 共存
+aviation  /ˏeɪvɪˈəɪʃn/ n. 航空，飞行；航空制造业
+rampant   /ˈræmpənt/   a. （犯罪、疾病等）猖獗的，肆虐的，泛滥的；（植物）蔓生的，疯长的
+prolonged [prəˈlɒŋd]   a. 持久的，长期的
+crushing  [ˈkrʌʃɪŋ]    a. 惨重的，毁灭性的；压倒的，决定性的
+futile    /ˈfjuːtaɪl/  a. 无效的，无用的，无意义的；（人）没出息的；琐细的
+edify     /ˈedɪfaɪ/    v. 陶冶，教化；启发，启迪
+vulgar    /ˈvʌlgə(r)/  a. 庸俗的，粗俗的，下流的，缺乏教养的；大众的，通俗的
+core      /kɔː(r)/     n. 果心，果核；（物体的）中心部分；核心、要点，精髓  vt. 去掉核
+inborn    /ˏɪnˈbɔːn/   a. 天生的，先天的，天赋的
+habitable /ˈhæbɪtəbl/  a. 适于居住的，可居住的
+ecological [ˌi:kəˈlɒdʒɪkl] a. 生态学的，生态的
+stipulate /ˈstɪpjuleɪt/ v. 规定，明确要求；（作为条件）讲定，约定
+legitimize [lɪ'dʒɪtəmaɪz] vt. 使合法；赋予合法权利
+crystallize [ˈkrɪstəlaɪz] v. （使）结晶；（使）变明确
+solar-powered ['səʊlə paʊəd] a. 由太阳能驱动的
+cosy      /ˋkəuzɪ/     a. 舒适的，安逸的
+roller    /ˈrəulə(r)/  n. 滚筒；滚轴
+unsanitary [ʌnˈsænətri] a. 不卫生的（= insanitary）
+condone   /kənˈdəun/   v. 宽恕，赦免；纵容，容忍
+bereave   /bɪˈriːv/    vt. 使丧失，剥夺
+faulty    ['fɔ:ltɪ]    a. 有错误的，有缺点的；不完美的
+enigma    /ɪˈnɪgmə/    n. 迷，迷一样的人或事
+gill      /gɪl/        n. 鳃
+spare*    /speə(r)/    a. 闲置的；备用的，外加的；空闲的  v. 省出，抽出（时间等）；饶恕，赦免；免去；不吝惜（时间、金钱等）  n. 备用品；[pl.] 配件
+nursery*  /ˈnɜːsərɪ/   a. 幼儿教育的  n. 托儿所；苗圃
+semantic  /sɪˈmæntɪk/  a. 语义的
+barren    /ˈbærən/     a. （土地等）贫瘠的，荒芜的；不结果实的，不育的；无益的，无效果的
+conductive [kənˈdʌktɪv] a. 能传导电（或热）的，导电（或热）的
+eccentric /ɪkˈsentrɪk/ a. 古怪的，反常的  n. 古怪的人
+inferior  /ɪnˈfɪərɪə(r)/ a. 较差的，次的，低劣的；级别低的，较低的  n. 下级；下属，晚辈
+slacken   /ˈslækən/    v. （使）松弛，放松；放慢；萧条
+mentor    /ˈmentɔː(r)/ n. 导师；顾问，指导者
+pad       /pæd/        n. 软垫；便笺本  v. （用软材料）堵塞；蹑手蹑脚地走
+unblemished [ʌnˈblemɪʃt] a. 无瑕疵的，完好的
+lounge    /laundʒ/     vi. 懒洋洋地站（或坐、躺）  n. 等候室；休息室
+axle      /ˈæksl/      n. 车轴，轮轴
+dietary   ['daɪətərɪ]  a. 饮食的
+hamper    /ˈhæmpə(r)/  vt. 妨碍，阻挠  n. 有盖的大篮子；盒装食物
+disparage /dɪˈspærɪdʒ/ vt. 贬抑，贬低；轻蔑，轻视
+corporal  /ˈkɔːpərəl/  a. 肉体的，身体的  n. （陆军或空军）下士
+libel     /ˈlaɪbl/     n. （文字）诽谤，中伤；诽谤性文字  vt. 诽谤，中伤，诬蔑
+criterion /kraɪˈtɪərɪən/ n. 标准，准则
+eco-friendly {ˌiːkəuˈfrendlɪ} a. 环保的
+predator  /ˈpredətə(r)/ n. 捕食性动物；食肉动物；奴役他人者（尤指在财务或性关系上面）；剥削者，掠夺者
 
 Word List 48
 telegraph /ˈtelɪgrɑːf/ n. 电报机；电报  v. 打电报，发电报；（无意中）泄露，流露
@@ -3595,7 +3675,7 @@ upgrade   /ˏʌpˈgreɪd/  n. 向上的斜坡；增加，改善   vt. 使（机�
 commute   /kəˈmjuːt/   v. （乘公共汽车等）上下班往返，经常往返；交换，抵偿；减刑  n. 上下班路程
 legislative [ˈledʒɪslətɪv] a. 立法的，有立法权的；根据法规执行的；立法机关的  n. 立法机关
 differentiate /ˏdɪfəˈrenʃɪeɪt/ v. 区分，区别；差别对待，区别对待
-sentient  /ˈsenʃnt/    a. 有感觉能力的，有知觉力的；知悉的
+sentient  /ˈsenʃnt/; [ˈsentiənt] a. 有感觉能力的，有知觉力的；知悉的
 pour*     /pɔː(r)/     v. 灌，倒；倾泻，涌流；喷发；不断涌现
 hook*     /huk/        n. 钩，吊钩，钩状物  v. （使）钩住，挂住；钓（鱼）
 tighten   ['taɪtn]     v. （使）变紧；使更加严格，加强
@@ -3639,4 +3719,4 @@ bleak     /bliːk/      a. 寒冷的，阴沉的，阴郁的，暗淡的；没�
 ecliptic  [ɪ'klɪptɪk]  n. [天] 黄道  a. 黄道的，日（或月）食的
 vicious   /ˈvɪʃəs/     a. 罪恶的，邪恶的；残酷的；残忍的；凶猛的；恶性的
 begrudge  /bɪˈgrʌdʒ/   vt. 对……感到不满；嫉妒；勉强做，不乐意地做
-diffuse   /dɪˈfjuːz/   v. 散布，传播；（光等）漫射；（使气体或液体）扩散，弥漫
+diffuse   /dɪˈfjuːz/   v. 散布，传播；（光等）漫射；（使气体或液体）扩散，弥漫  /dɪˈfjuːs/ a. 扩散的，漫射的；（文章等）冗长的，难解的
