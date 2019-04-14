@@ -14,14 +14,32 @@ README
 范洪滔 <fanhongtao@gmail.com>
 2015-01-05
 
-Word List 01
-emperor   /ˈempərə(r)/ n. 皇帝；君主
+
+
+
+结合自己的学习习惯和记忆方式, 我在Github上找到了 原来的repo, 并做了一些修改和备注. 
+
+Steve <staticor0828@gmail.com>
+2019-04-15
+
+
+=前缀, 表示 "没那么熟"
+
+# Word List 01
+
+= emperor   /ˈempərə(r)/ n. 皇帝；君主
+= burgeon*  /ˈbɜːdʒən/   vi. 迅速成长；发展
+= physician /fɪˈzɪʃn/    n. 内科医生，医师
+
 exact*    /ɪgˈzækt/    a. 精确的；准确的
+precise   /prɪˈsaɪs/   a. 精确的，准确的；严谨的
+imprecise /ˏɪmprɪˈsaɪs/ a. 不精确的，不严密的
+
 traditional* [trəˈdɪʃənl] a. 传统的，惯例的；口传的，传说的
 lack*     /læk/        n./vt. 缺乏，不足，没有
 pardon*   /ˈpɑːdn/     excl.（用于请求别人重复某事）什么，请再说一遍 n./vt. 原谅，宽恕；赦免
 regent    /ˈriːdʒənt/  n. 摄政者（代国王统治者）
-burgeon*  /ˈbɜːdʒən/   vi. 迅速成长；发展
+
 argue*    /ˈɑːgjuː/    v. 争论；说服
 barely*   [ˈbeəli]     ad. 仅仅，几乎不；赤裸裸地，无遮蔽地
 methane*  /ˈmiːθeɪn/   n. 甲烷，沼气
@@ -36,7 +54,7 @@ chronic   /ˈkrɔnɪk/    a. （疾病）慢性的；积习难改的
 desirable /dɪˈzaɪərəbl/ a. 值得拥有的；合意的；可取的，有利的
 consortium* /kənˈsɔːtɪəm/ n. 集团；财团；社团，协会
 buckle    /ˈbʌkl/      n. 皮带扣环 v. 扣紧；（使）变形；弯曲
-curry     /ˈkʌrɪ/      n. 咖喱，咖喱饭菜  vt. 把（肉、蔬菜等）做成咖喱食品；梳刷（马毛等）
+curry     /ˈkʌrɪ/      n. 咖喱，咖喱饭菜  vt. 把（肉、蔬菜等）做成咖喱食品；梳刷（马毛等）  库里 NBA勇士队超巨级球员.
 subliminal /ˏsʌbˈlɪmɪnl/ a. 下意识的，潜意识的
 chamber*  /ˈtʃeɪmbə(r)/ n. 室；洞穴；（枪）膛
 frequent* /ˈfriːkwənt/ a. 频繁的，常见的，常用的
@@ -47,7 +65,7 @@ immigration* [‚ɪmɪ'greɪʃn] n. 外来的移民；移居
 natural*  /ˈnætʃrəl/   a. 正常的，普通的，自然的；自然界的，天然的；天赋的，固有的
 bet*      /bet/        v. 赌，打赌  n. 打赌，赌注
 consumer  /kənˈsjuːmə(r)/ n. 消费者；用户
-physician /fɪˈzɪʃn/    n. 内科医生，医师
+
 equal     /ˈiːkwəl/    a. 相等的  vt. 比得上
 resort*   /rɪˈzɔːt/    n. 求助；诉诸；胜地  vi. 求助；诉诸
 leadership* [ˈli:dəʃɪp] n. 领导，领导层；领导能力
@@ -3415,7 +3433,8 @@ balance*  /ˈbæləns/    n. 平衡；余额  vt. 平衡
 adjust*   /əˈdʒʌst/    v. 校准；调节；使……适应
 require*  /rɪˈkwaɪə(r)/ vt. 需要；命令；规定，要求
 fairly*   /feəlɪ/      ad. 相当地；公平地；简直，完全地
-precise   /prɪˈsaɪs/   a. 精确的，准确的；严谨的
+
+
 colour-blind* ['kʌlə(r) blaɪnd] a. 色盲的
 trustworthy [ˈtrʌstwɜ:ði] a. 值得信赖的，可靠的
 vomit     /ˈvɔmɪt/     n. 呕吐，呕吐物；催吐剂  v. 呕吐，恶心；喷出
@@ -3427,7 +3446,7 @@ condensation /ˏkɔndenˈseɪʃn/ n. 浓缩，凝结
 facial    /ˈfeɪʃl/     a. 面部的；面部用的
 herbal    [ˈhɜ:bəl]    a. 草本植物的；药草（制）的  n. 草本植物志；药草书
 hover     /ˈhɔvə(r)/   v. （鸟等）翱翔，盘旋；逗留在近旁，徘徊；彷徨，犹豫
-imprecise /ˏɪmprɪˈsaɪs/ a. 不精确的，不严密的
+
 inactive  /ɪnˈæktɪv/   a. 不活动的；懒散的
 initiate  /ɪˈnɪʃɪeɪt/  vt. 开始，创造，发起；接纳（成员），让……加入  /ɪˈnɪʃɪət/ n. （新）加入组织者
 longitude /ˈlɔndʒɪtjuːd/ n. 经度，经线
